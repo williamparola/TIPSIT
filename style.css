@@ -1,0 +1,28 @@
+body{
+        background-image:linear-gradient(60deg,red,orange);
+        height:1920px;
+        overflow-y: hidden;
+      }
+
+      .Card{ 
+        border: 5px solid black;
+        background-image:linear-gradient(60deg,yellow,red);
+        width:297px;
+        height:400px;
+        margin:10px;
+        padding:10px;
+        padding-top:4px;
+        border-radius: 8px;
+        margin: auto;
+      }
+      .CardInternoBox{
+        border: 3px solid black;
+        width:290px;
+        height:380px;
+        border-radius: 8px;
+      }
+      p {
+        color:Black;
+        text-align:center;
+        margin:0px;
+      }
