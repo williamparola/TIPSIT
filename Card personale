@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   <h1>Carta Personale  </h1>
+    <div class="Card">
+      <p> Studente </p>
+      <div class="CardInternoBox">
+        <p>Parola William</p>
+        <img src="IMG-1997.jpg" width="291" height="250">
+      <br>
+      <br>
+     16 anni<br> Nato a Pinerolo<br> Stabilimento : Castagnole<br>Classe: 3B Info.
+      </div>
+    </div>
+  </body>
+</html> 
