@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+
+        .button {
+            background-color: rgb(19, 233, 55);
+            max-height: 50px;
+            max-width: 50px;
+            min-height:50px;
+            min-width:50px;
+            border-width: 1px;
+            border-color: blue;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .button1 {
+            background-color: #ff0000;
+        }
+
+        .button2 {
+            background-color: #00ff0d;
+        }
+
+        .button3 {
+            background-color: #1100fa;
+        }
+
+        .button4 {
+            background-color: #fffb00;
+        }
+
+        .button5 {
+            background-color: #ff6600;
+        }
+
+    </style>
+
+    <script>
+
+
+
+
+    </script>
+</head>
+
+<body>
+    <button class="button button1">2</button>
+    <button class="button button2">3</button>
+    <button class="button button3">4</button>
+    <button class="button button4">5</button>
+    <button class="button button5">6</button>
+</body>
+
+<!DOCTYPE html>
+
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+
+        .button {
+            background-color: rgb(19, 233, 55);
+            max-height: 50px;
+            max-width: 50px;
+            min-height:50px;
+            min-width:50px;
+            border-width: 1px;
+            border-color: blue;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .button1 {
+            background-color: #ff0000;
+        }
+
+        .button2 {
+            background-color: #00ff0d;
+        }
+
+        .button3 {
+            background-color: #1100fa;
+        }
+
+        .button4 {
+            background-color: #fffb00;
+        }
+
+        .button5 {
+            background-color: #ff6600;
+        }
+        /*document.getElementById("risultato").innerHTML=  "  stringa della tabellina da pubblicare"*/
+
+        
+    </style>
+
+    <script>
+
+    function tabellina2(){
+            alert("2 4 6 8 10 12 14 16 18 20");
+        }
+
+    function tabellina3(){
+            alert("3 6 9 12 15 18 21 24 27 30");
+        }
+
+    function tabellina4(){
+            alert("4 8 12 16 20 24 28 32 36 40");
+        }
+
+    function tabellina5(){
+            alert("5 10 15 20 25 30 35 40 45 50");
+        }
+
+    function tabellina6(){
+            alert("6 12 18 24 30 36 42 48 54 60");
+        }
+
+    </script>
+</head>
+
+<body>
+    <button class="button button1 onclick="tabellina2>2</button>
+    <button class="button button2 onclick="tabellina3>3</button>
+    <button class="button button3 onclick="tabellina4>4</button>
+    <button class="button button4 onclick="tabellina5>5</button>
+    <button class="button button5 onclick="tabellina6>6</button>
+</body>
+
+<!DOCTYPE html>
+
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+
+        .button {
+            background-color: rgb(19, 233, 55);
+            max-height: 50px;
+            max-width: 50px;
+            min-height:50px;
+            min-width:50px;
+            border-width: 1px;
+            border-color: blue;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .button1 {
+            background-color: #ff0000;
+        }
+
+        .button2 {
+            background-color: #00ff0d;
+        }
+
+        .button3 {
+            background-color: #1100fa;
+        }
+
+        .button4 {
+            background-color: #fffb00;
+        }
+        .button5 {
+            background-color: #ff6600;
+        }
+        /*document.getElementById("risultato").innerHTML=  "  stringa della tabellina da pubblicare"*/
+ 
+    </style>
+    <script>
+
+    function tabellina2(){
+            alert("2 4 6 8 10 12 14 16 18 20");
+        }
+
+    function tabellina3(){
+            alert("3 6 9 12 15 18 21 24 27 30");
+        }
+
+    function tabellina4(){
+            alert("4 8 12 16 20 24 28 32 36 40");
+        }
+
+    function tabellina5(){
+            alert("5 10 15 20 25 30 35 40 45 50");
+        }
+
+    function tabellina6(){
+            alert("6 12 18 24 30 36 42 48 54 60");
+        }
+
+    </script>
+</head>
+
+<body>
+    <button class="button button1" onclick="tabellina2">2</button>
+    <button class="button button2" onclick="tabellina3">3</button>
+    <button class="button button3" onclick="tabellina4">4</button>
+    <button class="button button4" onclick="tabellina5">5</button>
+    <button class="button button5" onclick="tabellina6">6</button>
+</body>
