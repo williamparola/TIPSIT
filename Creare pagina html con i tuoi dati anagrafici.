@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Descrizione personale </title>
+
+	<style>
+		body {
+			background-color: black;
+		}
+
+		h1 {
+			color: yellow;
+		}
+
+		td {
+			color: yellow;
+		}
+    p{
+      color: yellow;
+    }
+    a{
+      color: red;
+    }
+	</style>
+</head>
+
+<body>
+	<h1> Descrizione personale</h1>
+	<hr>
+<table>
+	<td> Nome: William</td>
+	<td> Cognome: Parola</td>
+    </tr>
+	<td> Nato a: Pinerolo </td>
+	<td> Paese: Castagnole</td>
+  </tr>
+	<td> Data: 25/07/05</td>
+  <td> Hobby: palestra</td>
+  </table>
+
+<p> link: </p>
+<a href="https://it.wikipedia.org/wiki/Pagina_principale">Wikipedia</a><br>
+<a href="https://www.w3schools.com">W3school</a><br>
+<a href="https://www.youtube.com">YouTube</a><br>
+<a href="https://discord.com">Discord</a><br>
+<a href="https://www.apple.com/it/">Apple</a><br>
+<a href="https://www.wordreference.com/it/">UrbanDictionary</a><br>
+<a href="https://news.google.com/topstories?hl=it&gl=IT&ceid=IT:it">News</a><br>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Ciao Mondo</title>
+
+  <body>
+    <h1> Ciao Mondo </h1>
+    <p> questa e la mia prima pagina web.<br />spero che le piaccia. </p>
+    <hr>
+    <p> un altro paragrafo</p>
+
+    <img src="sfondo schermo1" />
+
+  </body>
+  </head>
+</html>
